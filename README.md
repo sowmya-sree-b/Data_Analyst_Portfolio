@@ -28,40 +28,55 @@ In this section I will list Projects briefly describing the technology stack use
 
 ### Legal Text Analysis
 
-##### Project: #####    
-[Legal Text Analysis ](https://github.com/sowmya-sree-b/LTA)
-##### Description: #####   
-This data set has more than 500 legal documents. Developed Machine leraning Models to perform classification of legal Clauses from the documents and to identify a substantial clause from the doumnets. The Project Includes the following steps: data loading and reading each and everydocument, data cleaning and preprocessing, features extraction, developing machine learning model, Testing, Confusion Matrix and error analysis.
-##### Skills: #####   
-Data Cleaning, Data Analysis, Machine Learning, Error Analysis
-##### Technology: #####   
-Pyhton, Pandas, Scikit learn, TF-IDF, Word2Vec, Logestic Regression, Support Vector Machine, NLTK, BeautifulSoup.
-##### Results: #####    
-Developed Machine Learning models to identify and classify clauses from Legal documents.
+***Project:*** [Legal Text Analysis ](https://github.com/sowmya-sree-b/LTA)
+
+***Description:*** This data set has more than 500 legal documents. Developed Machine leraning Models to perform classification of legal Clauses from the documents and to identify a substantial clause from the doumnets. The Project Includes the following steps: data loading and reading each and everydocument, data cleaning and preprocessing, features extraction, developing machine learning model, Testing, Confusion Matrix and error analysis.
+
+***Skills:*** Data Cleaning, Data Analysis, Machine Learning, Error Analysis
+
+***Technology:*** Pyhton, Pandas, Scikit learn, TF-IDF, Word2Vec, Logestic Regression, Support Vector Machine, NLTK, BeautifulSoup.
+
+***Results:*** Developed Machine Learning models to identify and classify clauses from Legal documents.
+
 
 ### Prediction of Housing Prices
 
-##### Project: ##### [Prediction of Housing Prices ](https://github.com/sowmya-sree-b/Prediction-of-Housing-Prices)
-##### Description: ##### 
-##### Skills: #####
-##### Technology: #####
-##### Results: #####
+***Project:*** [Prediction of Housing Prices ](https://github.com/sowmya-sree-b/Prediction-of-Housing-Prices)
+
+***Description:*** 
+
+***Skills:*** EDA, Data Visualization, Data Profiling, Data Modelling
+
+***Technology:*** R programming, GLM, Random Forest, ggplot2, Plotly
+
+***Results:***
+
 
 ### ChatBot
 
-##### Project: ##### [ChatBot Using Wikipedia ](https://github.com/sowmya-sree-b/ChatBot-using-Wiki-)
-##### Description: ##### 
-##### Skills: #####
-##### Technology: #####
-##### Results: #####
+***Project:*** [ChatBot Using Wikipedia ](https://github.com/sowmya-sree-b/ChatBot-using-Wiki-)
+
+***Description:***
+
+***Skills:*** 
+
+***Technology:***
+
+***Results:***
+
 
 ### Netflix Exploratory Data Analysis
 
-##### Project: ##### [Netflix EDA ](https://github.com/sowmya-sree-b/Netflix_EDA)
-##### Description: ##### 
-##### Skills: #####
-##### Technology: #####
-##### Results: #####
+***Project:*** [Netflix EDA ](https://github.com/sowmya-sree-b/Netflix_EDA)
+
+***Description:***
+
+***Skills:***
+
+***Technology:***
+
+***Results:***
+
 
 ## Additional Courses 
 
