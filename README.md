@@ -28,11 +28,16 @@ In this section I will list Projects briefly describing the technology stack use
 
 ### Legal Text Analysis
 
-##### Project: ##### [Legal Text Analysis ](https://github.com/sowmya-sree-b/LTA)
-##### Description: ##### This data set has more than 500 legal documents. Developed Machine leraning Models to perform classification of legal Clauses from the documents and to identify a substantial clause from the doumnets. The Project Includes the following steps: data loading and reading each and everydocument, data cleaning and preprocessing, features extraction, developing machine learning model, Testing, Confusion Matrix and error analysis.
-##### Skills: ##### Data Cleaning, Data Analysis, Machine Learning, Error Analysis
-##### Technology: ##### Pyhton, Pandas, Scikit learn, TF-IDF, Word2Vec, Logestic Regression, Support Vector Machine, NLTK, BeautifulSoup.
-##### Results: ##### Developed Machine Learning models to identify and classify clauses from Legal documents.
+##### Project: #####    
+[Legal Text Analysis ](https://github.com/sowmya-sree-b/LTA)
+##### Description: #####   
+This data set has more than 500 legal documents. Developed Machine leraning Models to perform classification of legal Clauses from the documents and to identify a substantial clause from the doumnets. The Project Includes the following steps: data loading and reading each and everydocument, data cleaning and preprocessing, features extraction, developing machine learning model, Testing, Confusion Matrix and error analysis.
+##### Skills: #####   
+Data Cleaning, Data Analysis, Machine Learning, Error Analysis
+##### Technology: #####   
+Pyhton, Pandas, Scikit learn, TF-IDF, Word2Vec, Logestic Regression, Support Vector Machine, NLTK, BeautifulSoup.
+##### Results: #####    
+Developed Machine Learning models to identify and classify clauses from Legal documents.
 
 ### Prediction of Housing Prices
 
