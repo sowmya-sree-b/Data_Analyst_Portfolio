@@ -88,5 +88,9 @@ In this section I will list Projects briefly describing the technology stack use
 
 
 ## Other Projects
+Check my other projects in Tableau and RPubs
+* [Tableau - Sowmya Sree Bandameedipalli](https://public.tableau.com/app/profile/sowmya.sree.b)
+* [RPubs](https://rpubs.com/bsowmyasree)
 
 ## Contact Me
+
