@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
 * [Certificates](#certificates)
 * [Other Projects](#other-projects)
 * [Contact Me](#contact-me)
-* []()
+
 
 ## Portfolio Projects 
 
@@ -43,39 +43,36 @@ In this section I will list Projects briefly describing the technology stack use
 
 ***Project:*** [Prediction of Housing Prices ](https://github.com/sowmya-sree-b/Prediction-of-Housing-Prices)
 
-***Description:*** 
+***Description:*** This project focus on Statistical analysis and Market analysis of housing prices based on different factors that effect the prices of property. Analysis consits of Textual and Visualization, to make a decision based on the metrics and factors. Futher Machine Learning models are added to predict the Market value of the property based on the Factors.
 
 ***Skills:*** EDA, Data Visualization, Data Profiling, Data Modelling
 
 ***Technology:*** R programming, GLM, Random Forest, ggplot2, Plotly
 
-***Results:***
+***Results:*** R functions to calculate, analyze and Visualize, Machine learning models, Data Modelling. 
 
 
 ### ChatBot
 
 ***Project:*** [ChatBot Using Wikipedia ](https://github.com/sowmya-sree-b/ChatBot-using-Wiki-)
 
-***Description:***
+***Description:*** chatbot developed using python which can understand user input and provide more details using Wikipedia as source.
 
-***Skills:*** 
+***Skills:*** Information retrevial, features extraction, webiste data scraping 
 
-***Technology:***
+***Technology:*** NLTK, SciKit Learn, TFID
 
-***Results:***
 
 
 ### Netflix Exploratory Data Analysis
 
 ***Project:*** [Netflix EDA ](https://github.com/sowmya-sree-b/Netflix_EDA)
 
-***Description:***
+***Description:*** This is a Exploratory Analysis of Netflix content on OTT platform along with visual analysis of content type, shows, movies, genres and contributors of content on the platform.
 
-***Skills:***
+***Skills:*** Data visualization, ED analysis, data cleaning, data profiling 
 
-***Technology:***
-
-***Results:***
+***Technology:*** pandas, NumPy, Matplotlib, Seaborn 
 
 
 ## Additional Courses 
