@@ -75,7 +75,7 @@ In this section I will list Projects briefly describing the technology stack use
 ***Technology:*** pandas, NumPy, Matplotlib, Seaborn 
 
 
-## Additional Courses with 
+## Additional Courses with Certification
 ***Completed Courses:***
 * [Data Analysis with Python](https://freecodecamp.org/certification/fcc5f9c463d-d166-40d5-be1e-1bf5d1a5ff37/data-analysis-with-python-v7)
 * [2022 Complete Python Bootcamp From Zero to Hero in Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-df34670f-91ba-4be5-a37e-02819d6e4f1c.pdf)
