@@ -64,7 +64,7 @@ In this section I will list Projects briefly describing the technology stack use
 
 
 
-### Netflix Exploratory Data Analysis
+### Netflix Exploratory Data Analysis Certificates 
 
 ***Project:*** [Netflix EDA ](https://github.com/sowmya-sree-b/Netflix_EDA)
 
@@ -75,9 +75,17 @@ In this section I will list Projects briefly describing the technology stack use
 ***Technology:*** pandas, NumPy, Matplotlib, Seaborn 
 
 
-## Additional Courses 
+## Additional Courses with 
+***Completed Courses:***
+* [Data Analysis with Python](https://freecodecamp.org/certification/fcc5f9c463d-d166-40d5-be1e-1bf5d1a5ff37/data-analysis-with-python-v7)
+* [2022 Complete Python Bootcamp From Zero to Hero in Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-df34670f-91ba-4be5-a37e-02819d6e4f1c.pdf)
+* [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/p1NP1lh6T9SRIJTP3vsKBg)
+* [The Business Intelligence Analyst Course 2022](https://udemy-certificate.s3.amazonaws.com/pdf/UC-76e9942a-7b14-4ccb-9b56-7f4890c7e356.pdf)
 
-## Certificates 
+***On-Going Courses:***
+* [Databricks Lakehouse Fundamentals](https://customer-academy.databricks.com/learn/lp/21/databricks-lakehouse-fundamentals-learning-plan)
+* [Google Data Studio](https://analytics.google.com/analytics/academy/course/10)
+
 
 ## Other Projects
 
