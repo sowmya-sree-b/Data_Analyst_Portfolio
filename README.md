@@ -74,6 +74,16 @@ In this section I will list Projects briefly describing the technology stack use
 
 ***Technology:*** pandas, NumPy, Matplotlib, Seaborn 
 
+### Car Sales Analysis
+
+***Project:*** [Car Sales Analysis](https://github.com/sowmya-sree-b/Car-Sales-Analysis)
+
+***Description:*** This Project focuses on Statistical analysis of Car Salws based on Brand, car type, cost and mileage with Visualisation.
+
+***Skills:*** Data Visualisation, Statistical Analysis
+
+***Technology:*** Pyhton, Pandas, NumPy, Matplotlib, Seaborn.
+
 
 ## Additional Courses with Certification
 ***Completed Courses:***
