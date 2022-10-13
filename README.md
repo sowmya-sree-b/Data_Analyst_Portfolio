@@ -15,6 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
   * [Prediction of Housing Prices](#prediction-of-housing-prices)
   * [ChatBot](#chatbot)
   * [Netflix Exploratory Data Analysis](#netflix-exploratory-data-analysis)
+  * [Car Sales Analysis](#car-sales-analysis)
 * [Study Projects](#study-projects)
 * [Additional Courses](#additional-courses)
 * [Certificates](#certificates)
